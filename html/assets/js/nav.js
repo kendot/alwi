@@ -1,0 +1,1 @@
+document.write('<ul><li><a href="./index.html">home</a></li><li><a href="./house.html">the house</a></li><li><a href="./photos.html">photo gallery</a></li><li><a href="./rates.html">rates &amp; availability</a></li><li><a href="./location.html">location</a></li><li><a href="./contact.html">contact us</a></li></ul>');
